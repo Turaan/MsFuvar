@@ -1,0 +1,6 @@
+C:\Users\Turan\OneDrive\Asztali gép\ms beadando\Futar\Futar\bin\Debug\Futar.exe.config
+C:\Users\Turan\OneDrive\Asztali gép\ms beadando\Futar\Futar\bin\Debug\Futar.exe
+C:\Users\Turan\OneDrive\Asztali gép\ms beadando\Futar\Futar\bin\Debug\Futar.pdb
+C:\Users\Turan\OneDrive\Asztali gép\ms beadando\Futar\Futar\obj\Debug\Futar.csprojAssemblyReference.cache
+C:\Users\Turan\OneDrive\Asztali gép\ms beadando\Futar\Futar\obj\Debug\Futar.exe
+C:\Users\Turan\OneDrive\Asztali gép\ms beadando\Futar\Futar\obj\Debug\Futar.pdb
